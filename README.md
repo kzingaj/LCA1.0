@@ -1,6 +1,6 @@
 # LCA1.0
 ---
-Decolonialized infrastructure for and by women and femmes of the diaspora. 
+Decolonized infrastructure for and by women and femmes of the diaspora. 
 
 ---
 ## Status
