@@ -6,7 +6,7 @@ Decolonial infrastructure for and by women and femmes of the diaspora.
 ## Status
 
 **Active development.**
-Currently in the research, design, and architecture phase. 
+Currently in research/design phase. 
 
 More to come.
 
